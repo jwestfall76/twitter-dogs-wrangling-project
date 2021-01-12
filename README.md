@@ -4,3 +4,6 @@ This project gathers data from three different sources.  One .csv file directly 
 library and a third using Twitter's API in the form of a json.txt file.  Using pandas, three separate dataframes are created.
 
 Each dataframe is examined for issues in regards to tidiness of data as well as quality.  Each issue is documented and then cleaned up.  After each dataframe is clean, all three are merged into one dataframe.  
+
+The PDF file provides some insights from the wrangled dataframe.
+
